@@ -1,0 +1,4 @@
+﻿  ThreatHijacking.cpp
+S:\MalwareDeveloped\ThreatHijacking\ThreatHijacking\ThreatHijacking\ThreatHijacking.cpp(36,23): warning C4018: '<': signed/unsigned mismatch
+S:\MalwareDeveloped\ThreatHijacking\ThreatHijacking\ThreatHijacking\ThreatHijacking.cpp(85): warning C4715: 'getHandleProcessByPID': not all control paths return a value
+  ThreatHijacking.vcxproj -> S:\MalwareDeveloped\ThreatHijacking\ThreatHijacking\x64\Debug\ThreatHijacking.exe

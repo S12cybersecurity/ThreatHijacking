@@ -1,0 +1,8 @@
+﻿  ThreatHijacking.cpp
+S:\MalwareDeveloped\ThreatHijacking\ThreatHijacking\ThreatHijacking\ThreatHijacking.cpp(36,23): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  Previous IOBJ not found, fall back to full compilation.
+S:\MalwareDeveloped\ThreatHijacking\ThreatHijacking\ThreatHijacking\ThreatHijacking.cpp(86): warning C4715: 'getHandleProcessByPID': not all control paths return a value
+  All 5 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ThreatHijacking.vcxproj -> S:\MalwareDeveloped\ThreatHijacking\ThreatHijacking\x64\Release\ThreatHijacking.exe
