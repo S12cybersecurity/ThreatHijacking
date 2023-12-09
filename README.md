@@ -1,2 +1,2 @@
 # ThreatHijacking
-Threat Hijacking Simple Implementation 
+Threat Hijacking Simple C++ Implementation 
