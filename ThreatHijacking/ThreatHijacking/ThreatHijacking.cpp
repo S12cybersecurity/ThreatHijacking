@@ -99,7 +99,7 @@ int main(){
     CONTEXT context;
     int pid;
 
-    // Query needed Information 
+    // Query needed information 
     pid = getPIDbyProcName("firefox.exe");
     hThread = findThread(pid);
     context = getThreatContext(hThread);
